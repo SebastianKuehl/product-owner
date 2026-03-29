@@ -381,6 +381,7 @@ body {
 }
 
 .evidence-table .pass { color: var(--accent-sage); font-weight: 700; }
+.evidence-table .fail { color: var(--accent-coral); font-weight: 700; }
 .evidence-table .cmd { color: var(--text-tertiary); font-size: 0.75rem; }
 
 .evidence-footer {
