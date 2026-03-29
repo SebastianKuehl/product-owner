@@ -1,7 +1,7 @@
 {
   "name": "product-owner",
   "description": "AI product owner agent for GitHub Copilot CLI. Manages project scope, planning, documentation, work decomposition, anvil-agent orchestration, reviews, merges, and releases.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Sebastian Kuehl",
     "url": "https://github.com/SebastianKuehl"
